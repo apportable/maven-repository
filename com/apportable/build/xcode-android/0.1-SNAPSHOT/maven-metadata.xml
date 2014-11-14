@@ -2,12 +2,12 @@
 <metadata>
   <groupId>com.apportable.build</groupId>
   <artifactId>xcode-android</artifactId>
-  <version>0.1</version>
+  <version>0.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1</version>
-      <version>0.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20141114.012036</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20141114012036</lastUpdated>
   </versioning>
 </metadata>
