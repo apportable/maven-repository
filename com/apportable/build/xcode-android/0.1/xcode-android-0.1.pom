@@ -5,7 +5,7 @@
   <groupId>com.apportable.build</groupId>
   <artifactId>xcode-android</artifactId>
   <version>0.1</version>
-  <name>android-xcode</name>
+  <name>xcode-android</name>
   <description>Provides Xcode Apportable dependency support for Android targets</description>
   <dependencies>
     <dependency>
@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.android.tools.build</groupId>
       <artifactId>gradle</artifactId>
-      <version>0.12.+</version>
+      <version>0.13.+</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
